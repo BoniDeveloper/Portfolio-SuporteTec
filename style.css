@@ -112,6 +112,7 @@ header .navegacao-primaria li a {
 }
 
 .section-div img {
+    
     max-width: 90%;
     border-radius: 20%;
     justify-self: flex-end;
